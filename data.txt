@@ -1,5 +1,6 @@
 Start
 <<<<<<< HEAD
+<<<<<<< HEAD
 feature 1
 bug : update ft 1 bug 1
 fix release
@@ -10,3 +11,8 @@ Mettre à jour ft 1
 fix release
 Hot fix 1
 >>>>>>> hotfix1
+=======
+Ajouter feature 2
+update feature 1
+fix release
+>>>>>>> feature2
